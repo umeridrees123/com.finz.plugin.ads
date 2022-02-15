@@ -1,1 +1,0 @@
-# com.finz.plugin.ads
